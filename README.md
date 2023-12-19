@@ -89,6 +89,8 @@ La Base de Datos tiene las tablas:
 - WEB
   https://universal-crater-143962.postman.co/workspace/88539435-957a-44d4-9642-baaa6ebad78b/request/29858323-24f0c4c1-acd7-403d-a330-811b736f18a5
 
+  https://learning.postman.com/docs/publishing-your-api/publishing-your-docs/
+
 ### Endpoints
 
 - Status: Estado del servidor
